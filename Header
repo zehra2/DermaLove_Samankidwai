@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Microneedling By Saman Kidwani</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon1.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!---i added-->
+   
+<!------ Include the above in your HEAD tag ---------->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    * Template Name: OnePage - v3.0.0
+    * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+    
+
+    <header id="header" class="fixed-top  ">
+
+        
+        <!----->
+        <div class="container-fluid " >
+        <div class="row  ">
+            <div class="col-lg-8">
+                <a href="index.html" class="logo me-auto ">
+                <img src="new_image/dermalove.png" alt=""   class=" img-fluid  float-right" 
+                 alt="ourLogo"></a>
+            </div>
+            <div class="col-lg-4">
+                <a href="index.html" class="logo me-auto ">
+                <img src="new_image/contact.png" width="150"  class="img-fluid float-right"  alt="ourLogo">
+          </a>
+            </div>
+        </div>
+        </div>
+
+        <!--------->
+       <!---- <div class="container " >
+            <div class="row" >
+
+                
+
+                
+
+        
+
+                <div class="col-lg-9">
+                
+
+                    <a href="index.html" class="logo me-auto ">
+                        <img src="new_image/dermalove.png" alt="" class="img-fluid float-right"></a>
+                    </div>
+    
+                    
+
+                
+
+
+    
+      
+                <div class="col-lg-3" >
+
+                    <a href="index.html"   >
+                        <img src="new_image/contact.png" alt="call-us" width="150"></a>
+                    </div>
+</div>
+</div> -->
+          
+    
+           
+           
+       
+
+    
+        
+          <!-- Uncomment below if you prefer to use an image logo -->
+
+          <div class="mainmenu d-flex align-items-center" 
+          style="background-color:#363433; ">
+
+           <!--  <h1 class="logo me-auto"><a href="index.html">OnePage</a></h1>-->
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      
+           <!-- .nav-menu -->
+           <nav class="nav-menu d-none d-lg-block  align-items-center " style="margin-left:75px"  >
+            <ul >
+                <li class=""><a href="index.html">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="portfolio-details.html">Book Online</a></li>
+                <li><a href="#pricing">Q/A</a></li>
+                <li class="drop-down">
+                    <a href="">Semi-permanent makeup</a>
+                    <ul>
+                        <li><a href="#">Eyelids</a></li>
+                        <li><a href="#">lips</a></li>
+                    </ul></li>
+
+                <li class="drop-down">
+                    <a href="">Our Treatments</a>
+                    <ul>
+                        <li><a href="#">Anti-Aging</a></li>
+                    
+                        <li><a href="Acne.html">Acne & Scars</a></li>
+                        <li><a href="#"> discoloration </a></li>
+                        <li><a href="#">Enlarge Pores</a></li>
+                        <li><a href="#">Strech Mark Removal</a></li>
+                        <li><a href="#">Alopecia</a></li>
+                        <li><a href="#">Dehydrated Skin</a></li>
+                    </ul>
+                </li>
+                <li><a href="#contact">Contact Us</a></li>
+
+            </ul>
+        </nav><!-- .nav-menu -->
+           
+        <a href="#about" class=""></a>
+      
+          </div>
+        </header><!-- End Header -->
+
+
+
+
+          <!-------->
+     
+
+
+
+
+      <!-- End Header -->
